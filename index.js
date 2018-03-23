@@ -5,3 +5,5 @@ function updateObjectWithKeyAndValue(obj, key, value) {
 
   return obj;
 }
+
+updateObjectWithKeyAndValue(recipies, 'snack', 'trail mix');
