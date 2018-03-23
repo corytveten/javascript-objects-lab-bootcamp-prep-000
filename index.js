@@ -1,3 +1,5 @@
 var recipes = { breakfast: "omlette" };
 
-recipes.snack = "trail mix";
+function updateObjectWithKeyAndValue(obj, key, value) {
+  obj.key = "value";
+}
